@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+    <string name="article_tittle">Beatles Anthology Vol. 1</string>
+    <string name="article_text">In a vault deep inside Abbey Road in London - pro
+        For more information, see the Beatles Time Capsule at www.rockument.com.
+        \n\n
+        This volume starts with the first new Beatles song, "Free as a Bird" (based on a John Lenn).
+        \n\n
+        <b>Highlights includes</b>
+        \n\n
+        <b><i>Cry for a Shadow</i></b> - Many a Beatle fanatic started down the bootleg road,like
+        \n\n
+        <b><i>My Bonnie</i></b> and <b><i>Ain't she Sweet</i></b> - At the same session, the Beatles
+        \n\n
+        <b><i>Searching </i></b> - A jerry Leiber - Mike Stoller comedy song that was a hit for the year
+        \n\n
+        <b><i>Love Me Do</i></b> - An early version of the song, played a bit slower and with more pitch
+        \n\n
+        <b><i>She Loves You - Till There was You - Twist and Shout</i></b> - Live at the princess's house
+        \n\n
+        <b><i>Leave My Kitten Alone</i></b> - One of the lost Beatle songs recorded during the "Beatles year"
+        \n\n
+        <b><i>One After 909</i></b> - A song recorded for the <i>Let It Be</i> album was actually launched
+    </string>
+</resources>
